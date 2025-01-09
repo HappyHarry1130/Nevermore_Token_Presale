@@ -18,7 +18,7 @@
         "sass": "^1.52.1",
         "use-wallet": "https://github.com/BigBen3918/use-wallet.git",
         "web-vitals": "^2.1.0"
-    },
+    },s
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",

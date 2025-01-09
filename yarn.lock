@@ -12,7 +12,7 @@
     "@0x/utils" "^4.5.2"
     lodash "^4.17.11"
     valid-url "^1.0.9"
-
+s
 "@0x/json-schemas@^4.0.2":
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/@0x/json-schemas/-/json-schemas-4.0.2.tgz#6f7c1dcde04d3acc3e8ca2f24177b9705c10e772"
