@@ -4,7 +4,7 @@ import routes from "./pages/routes";
 import Provider from "./context";
 import "./assets/css/style.scss";
 import "./assets/css/custom.scss";
-s
+
 export default function App() {
     return (
         <Provider>

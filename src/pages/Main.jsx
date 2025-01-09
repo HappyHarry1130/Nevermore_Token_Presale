@@ -8,7 +8,7 @@ import sub1 from "../assets/images/first.png";
 import sub2 from "../assets/images/second.png";
 import sub3 from "../assets/images/third.png";
 import addresses from "../contract/resource/addresses.json";
-s
+
 export default function Main() {
     const wallet = useWallet();
     const [state, { BuyToken, ClaimToken }] = useBlockchainContext();
